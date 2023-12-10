@@ -13,5 +13,4 @@ Added features like Category wise income, category wise expense and pie charts a
 ![Screenshot (350)](https://github.com/Saurabhparshar/Bahi-book/assets/109866847/2252ea86-a29d-456f-9f1f-259873847b3c)
 ![Screenshot (353)](https://github.com/Saurabhparshar/Bahi-book/assets/109866847/9ba3e04f-201f-4d06-8713-55deb8a2b3d7)
 ![Screenshot (354)](https://github.com/Saurabhparshar/Bahi-book/![Screenshot (356)](https://github.com/Saurabhparshar/Bahi-book/assets/109866847/b54e38ec-e026-4c68-bfa4-4b3246013c07)
-assets/109866847/2917fb4a-88f6-4005-b101-12c17c3b2ee5)
-![Screenshot (357)](https://github.com/Saurabhparshar/Bahi-book/assets/109866847/1e61170e-ec20-4160-a8eb-75e90d4dfb4d)
+
